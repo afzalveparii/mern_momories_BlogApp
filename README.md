@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>MERN Stack Project</title>
 </head>
 <body>
   <h1>MERN Stack Project</h1>
@@ -28,8 +27,7 @@
 
   <h2>📦 Installation</h2>
   <h3>Clone the Repository</h3>
-  <pre><code>git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name</code></pre>
+  <pre><code>git clone </code></pre>https://github.com/afzalveparii/mern_momories_BlogApp.git
 
   <h3>Install Dependencies</h3>
   <h4>Frontend</h4>
@@ -101,7 +99,7 @@ npm start</code></pre>
   <p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for details.</p>
 
   <h2>📞 Contact</h2>
-  <p>For any inquiries, please contact me at <a href="mailto:your-email@example.com">your-email@example.com</a>.</p>
+  <p>For any inquiries, please contact me at <a href="mailto:your-email@example.com">afzal313dz@gmail.com</a>.</p>
 
   <hr>
   <p>Made with ❤️ by <a href="https://github.com/yourusername">Your Name</a></p>
